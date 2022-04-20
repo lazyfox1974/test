@@ -27,7 +27,7 @@ github_username:  lazyfox1974
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
