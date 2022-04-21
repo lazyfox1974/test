@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://lazyfox1974@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/lazyfox1974
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/lazyfox1974
+  icon: fab fa-github
