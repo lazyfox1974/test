@@ -1,8 +1,8 @@
 # Setup
 title: My Blog
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: "https://lazyfox.blog"
-domain: lazyfox.blog
+url: "http://lazyfox.blog"
+domain: "http://lazyfox.blog"
 baseurl: "/test" # the subpath of your site, e.g. /blog
 avatar: /avatar.jpeg
 paginate: 5
